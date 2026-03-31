@@ -1,11 +1,11 @@
-# agent-eternal
+# codex-eternal-recurrence
 
 Trap Codex in an eternal recurrence of execution until absolute completion is sworn.
 
 ## Install
 
 ```bash
-npx agent-eternal
+npx github:futrime/codex-eternal-recurrence
 ```
 
 ## Usage
