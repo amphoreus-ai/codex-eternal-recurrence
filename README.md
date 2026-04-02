@@ -5,7 +5,7 @@ Trap Codex in an eternal recurrence of execution until absolute completion is sw
 ## Install
 
 ```bash
-npx github:futrime/codex-eternal-recurrence
+npx github:amphoreus-ai/codex-eternal-recurrence
 ```
 
 ## Usage
