@@ -1,8 +1,10 @@
 #!/usr/bin/env node
 
 import { mkdir, readFile, writeFile, copyFile } from "node:fs/promises";
-import { resolve, join } from "node:path";
+import { fileURLToPath } from "node:url";
+import { dirname, resolve, join } from "node:path";
 
+const __dirname = dirname(fileURLToPath(import.meta.url));
 const rootDir = resolve(__dirname, "..");
 const sourceDir = join(rootDir, ".codex");
 const targetDir = join(process.cwd(), ".codex");
