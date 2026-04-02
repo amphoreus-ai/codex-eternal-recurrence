@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node \"$(git rev-parse --show-toplevel)/.codex/hooks/eternal-recurrence.mjs\""
+            "command": "sh .codex/hooks/eternal-recurrence.sh"
           }
         ]
       }

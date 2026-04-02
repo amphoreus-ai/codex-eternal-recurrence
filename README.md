@@ -10,7 +10,7 @@ npx github:futrime/codex-eternal-recurrence
 
 ## Usage
 
-Ask the agent to do something, and it will keep trying until it succeeds or admits defeat.
+Just ask the agent to do something, and it will keep trying until it succeeds or admits defeat.
 
 ## Contributing
 
