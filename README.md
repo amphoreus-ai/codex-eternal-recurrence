@@ -1,4 +1,4 @@
-# codex-eternal-recurrence
+# Autopilot for Codex
 
 Trap Codex in an eternal recurrence of execution until absolute completion is sworn.
 
