@@ -1,11 +1,21 @@
 {
-  "name": "codex-eternal-recurrence",
+  "name": "codex-autopilot",
   "version": "0.1.0",
+  "description": "Autopilot for Codex",
   "type": "module",
-  "dependencies": {
-    "confbox": "^0.2.2"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amphoreus-ai/codex-autopilot.git"
   },
+  "bugs": {
+    "url": "https://github.com/amphoreus-ai/codex-autopilot/issues"
+  },
+  "homepage": "https://github.com/amphoreus-ai/codex-autopilot#readme",
   "bin": {
-    "codex-eternal-recurrence": "bin/main.js"
+    "codex-autopilot": "bin/install.js"
+  },
+  "dependencies": {
+    "confbox": "^0.2.4"
   }
 }
